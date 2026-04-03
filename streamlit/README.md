@@ -25,6 +25,42 @@ Powered by Groq’s Llama 3.3 70B model, CodeBuddy enables users to learn progra
 - 🌐 **Web-Based UI**
   - Built using Streamlit for quick and clean interface
 
+
 ---
 
+## ⚙️ Tech Stack
+
+- **Frontend/UI:** Streamlit  
+- **Backend Logic:** Python  
+- **Automation Engine:** Playwright  
+- **AI Model:** Groq Llama 3.3 70B  
+- **Async Processing:** asyncio  
+
+---
+
+## 🔧 Installation
+
+```bash
+# Clone repository
+git clone <your-repo-url>
+
+# Navigate to project
+cd project
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Install Playwright browsers
+playwright install
+
+
 ## 🏗️ Architecture
+User Interface (Streamlit)
+↓
+Controller Layer
+↓
+AI Processing Engine
+↓
+Groq Llama 3.3 70B Model
+↓
+Response Rendering & Storage
