@@ -1,5 +1,5 @@
 
-# 🎥 Cinematic Car Chase Prompt (Seedance 1.5)
+# 🎥 Cinematic Car Chase Prompt 
 
 ## 📌 Project Description
 This repository contains a **high-quality JSON prompt** designed for generating a cinematic car chase video using **AI text-to-video models** like Seedance 1.5.
